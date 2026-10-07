@@ -2,8 +2,6 @@
 
 An end-to-end financial dashboard automation system: raw files land in a folder, get validated, cleaned, feature-engineered, merged into a canonical dataset, visualized in an interactive Streamlit dashboard, and exported as Excel/PDF/CSV reports — all on a schedule.
 
-![Dashboard Screenshot](images/screenshot.png)
-
 ## 1. Business Understanding
 
 **Business problem.** Finance teams receive monthly Actuals/Budget/Forecast exports per business unit as spreadsheets. Consolidating them, tracking budget variance, and producing leadership reports is manual and error-prone.
